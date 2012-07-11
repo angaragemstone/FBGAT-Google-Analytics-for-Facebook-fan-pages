@@ -210,7 +210,7 @@ addLoadEvent(prepareInputsForHints);
 	<label for="gacode">Analytics Code: </label>
 	<input type="text" name="gacode" id="gacode" onkeyup="checkGACode(this);"></input> 
 	<span class="hint">You get this code from Google Analytics, the code looks
-like UA-1231231-1</span>
+like UA-33106492-1</span>
 </fieldset>
 <fieldset>
 	<label for="gadomain">Domain on Analytics:</label>
